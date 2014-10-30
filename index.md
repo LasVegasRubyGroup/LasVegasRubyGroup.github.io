@@ -17,3 +17,5 @@ Reasons people join:
 * You are an entrepreneur who wants to learn how to code your ideas.
 * You are a person who wants to lean more about computer programing in
   general.
+
+<iframe width="225" height="570" src="http://meetu.ps/2CSrHq" frameborder="0"></iframe>
