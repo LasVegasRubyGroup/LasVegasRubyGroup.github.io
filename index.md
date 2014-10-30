@@ -15,7 +15,7 @@ Reasons people join:
 
 * You are a Ruby developer looking to network with other Ruby
   developers in Las Vegas.
-* You are not a Ruby developer, but want to learn a new language.
+* You are not a Ruby developer, but you want to learn a new language.
 * You are an entrepreneur who wants to learn how to code your ideas.
 * You are a person who wants to lean more about computer programing in
   general.
