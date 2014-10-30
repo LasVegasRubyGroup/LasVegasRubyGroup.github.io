@@ -1,9 +1,7 @@
 ---
+layout: default
 title: Las Vegas Ruby User Group
 ---
-
-Las Vegas Ruby User Group
-=========================
 
 LVRUG is the place to learn and share information about Ruby, the
 Rails framework and related technologies in Las Vegas.
