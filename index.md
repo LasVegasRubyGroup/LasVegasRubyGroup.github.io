@@ -33,3 +33,4 @@ Some group links:
 * [Google Group](https://groups.google.com/forum/#!forum/lvrug) - for discussion outside of normal meetup times
 * [GitHub page](https://github.com/LasVegasRubyGroup) - containing various projects worked on by the group
 * [The old topics app](http://topics.lvrug.org)
+* <a href="https://plus.google.com/102928983510120287644" rel="publisher">Google+</a>
