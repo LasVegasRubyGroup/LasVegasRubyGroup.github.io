@@ -32,5 +32,7 @@ Some group links:
 * [YouTube channel](http://www.youtube.com/channel/UCnH092jgp9eFRnfDsWNs6jw)
 * [Google Group](https://groups.google.com/forum/#!forum/lvrug) - for discussion outside of normal meetup times
 * [GitHub page](https://github.com/LasVegasRubyGroup) - containing various projects worked on by the group
-* [The old topics app](http://topics.lvrug.org)
 * <a href="https://plus.google.com/102928983510120287644" rel="publisher">Google+</a>
+
+<a class="twitter-timeline" href="https://twitter.com/LVRUG" data-widget-id="638420432102686720">Tweets by @LVRUG</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
