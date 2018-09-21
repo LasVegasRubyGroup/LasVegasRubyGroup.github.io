@@ -17,7 +17,7 @@ applications and ruby.  We welcome:
   their excitement.
 
 Our primary activity is the biweekly [Las Vegas Ruby
-Meetup](http://www.meetup.com/las-vegas-ruby-on-rails/).  The Meetup
+Meetup](https://www.meetup.com/las-vegas-ruby-on-rails/).  The Meetup
 opens with classroom-style Ruby instruction and concludes with
 presentations on any of a variety of topics relevant to Ruby
 programmers, from fundamental computer science to how to pick the best
@@ -25,11 +25,11 @@ web fonts.
 
 Some group links:
 
-* [Meetup page](http://www.meetup.com/las-vegas-ruby-on-rails/) - **RSVP here to join the next meeting!**
+* [Meetup page](https://www.meetup.com/las-vegas-ruby-on-rails/) - **RSVP here to join the next meeting!**
 * [Meetup slides](https://docs.google.com/presentation/d/1hmHaztz-qs0GrsGp_JQb-SuNTlBcDUtMD4ZM0sJcKHA/edit#slide=id.p)
 * [Current topics list](https://docs.google.com/document/d/1qJnzWZXBKuj9iX2X5FoTo-Er0XoyJnLkUZVcTMDPYm4/edit)
 * [Presentations archive](https://speakerdeck.com/lvrug)
-* [YouTube channel](http://www.youtube.com/channel/UCnH092jgp9eFRnfDsWNs6jw)
+* [YouTube channel](https://www.youtube.com/channel/UCnH092jgp9eFRnfDsWNs6jw)
 * [Google Group](https://groups.google.com/forum/#!forum/lvrug) - for discussion outside of normal meetup times
 * [GitHub page](https://github.com/LasVegasRubyGroup) - containing various projects worked on by the group
 * <a href="https://plus.google.com/102928983510120287644" rel="publisher">Google+</a>
